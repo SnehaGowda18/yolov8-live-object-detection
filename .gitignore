@@ -1,0 +1,7 @@
+yolov8s.pt
+yolov8x.pt
+*.pt
+outputs/
+*.avi
+*.mp4
+*.log
